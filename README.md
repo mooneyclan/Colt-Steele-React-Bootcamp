@@ -22,29 +22,31 @@ Section 10: The World of React Events <br>
 Section 11: Hangman Exercise <br>
 Section 12: Lights Out Game <br>
 Section 13: Forms in React <br>
-Section 14: <br>
-Section 15: <br>
-Section 16: <br>
-Section 17: <br>
-Section 18: <br>
-Section 19: <br>
-Section 20: <br>
-Section 21: <br>
-Section 22: <br>
-Section 23: <br>
-Section 24: <br>
-Section 25: <br>
-Section 26: <br>
-Section 27: <br>
-Section 28: <br>
-Section 29: <br>
-Section 30: <br>
-Section 31: <br>
-Section 32: <br>
-Section 33: <br>
-Section 34: <br>
-Section 35: <br>
-Section 36: <br>
-Section 37: <br>
-Section 38: <br>
-Section 39: <br>
+Section 14: Forms Exercise <br>
+Section 15: Todo List Project <br>
+Section 16: Building Yahtzee <br>
+Section 17: React Lifecycle Methods <br>
+Section 18: LifeCycle Methods & API Exercise <br>
+Section 19: Building the Dad Jokes App <br>
+Section 20: React Router: <br>
+Section 21: Vending Machine Exercise <br>
+Section 22: React Router Patterns <br>
+Section 23: Router Exercises Part 2 <br>
+Section 24: The Massive Color Project Pt 1 <br>
+Section 25: The Massive Color Project Pt 2 <br>
+Section 26: JSS & withStyles (Color App) <br>
+Section 27: The Massive Color Project Pt 3 <br>
+Section 28: The Massive Color Project Pt 4 <br>
+Section 29: The Massive Color Project Pt 5 <br>
+Section 30: The Massive Color Project Pt 6 <br>
+Section 31: The Massive Color Project Pt 7 <br>
+Section 32: Introducing React Hooks <br>
+Section 33: React Hooks Project <br>
+Section 34: Introducing The Context API! <br>
+Section 35: Using Context with Hooks <br>
+Section 36: State Management w/ useReducer &
+useContext <br>
+Section 37: Next JS <br>
+Section 38: Next: Fetching & Server API <br>
+Section 39: Bonus: Webpack Mini Course - Your Own
+Simple Version of Create React App <br>
