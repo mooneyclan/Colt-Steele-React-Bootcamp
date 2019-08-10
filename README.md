@@ -18,7 +18,7 @@ Section 6: Introducing State &check; <br>
 Section 7: React State Dice Exercise &check; <br>
 Section 8: React State Patterns &check; <br>
 Section 9: State Exercises! &check; <br>
-Section 10: The World of React Events <br>
+Section 10: The World of React Events &check; <br>
 Section 11: Hangman Exercise <br>
 Section 12: Lights Out Game <br>
 Section 13: Forms in React <br>
